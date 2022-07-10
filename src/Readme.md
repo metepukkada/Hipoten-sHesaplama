@@ -1,0 +1,1 @@
+# Kullanıcının girdiği değerlere göre hipotenüs hesaplayan program yazıldı.
